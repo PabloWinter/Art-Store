@@ -132,6 +132,23 @@
 }
 /*End art works*/
 
+/*Start about page*/
+.jumbotron{
+    background-image: url('images/whistler-small2.jpg');
+}
+
+.jumbotron h2{
+    color: white;
+    padding-bottom: 24px;
+}
+
+.jumbotron p{
+    color: white;
+    font-size: 21px;
+    margin-bottom: 5px;
+}
+/*End about page*/
+
 /* Start footer */
 footer {
     margin-top: 1.5em;
